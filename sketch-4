@@ -24,8 +24,3 @@ function draw() {
 		move = -move;
 	}
 }
-
-function mousePressed() {
-	x = mouseX;
-	y = mouseY;
-}
