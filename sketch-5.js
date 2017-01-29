@@ -26,7 +26,3 @@ function draw() {
 	}
 }
 
-function mousePressed() {
-	x = mouseX;
-	y = mouseY;
-}
